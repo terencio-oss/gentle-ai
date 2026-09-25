@@ -914,7 +914,7 @@ The prompt input (Step 2) is the most complex TUI element. It needs:
 - Basic cursor navigation (arrows, Home/End)
 - Paste support
 
-Consider using [charmbracelet/textarea](https://github.com/charmbracelet/textarea) — a Bubbletea component designed for multi-line text input. This avoids building custom text editing logic.
+Consider using [bubbles/textarea](https://github.com/charmbracelet/bubbles/tree/main/textarea) — a Bubbletea component designed for multi-line text input. This avoids building custom text editing logic.
 
 ### 14.3 Generation as a Goroutine
 
